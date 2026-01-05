@@ -82,7 +82,7 @@ data/           Raw and processed datasets
 results/        Evaluation outputs and figures
 paper/          Published research paper (PDF)
 
-```text
+```
 
 ---
 
@@ -91,4 +91,4 @@ paper/          Published research paper (PDF)
 ```text
 pip install -r requirements.txt
 python src/main_pipeline.py
-```text
+```
