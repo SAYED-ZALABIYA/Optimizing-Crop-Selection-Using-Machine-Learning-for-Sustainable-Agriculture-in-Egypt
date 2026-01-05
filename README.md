@@ -106,5 +106,6 @@ python src/main_pipeline.py
 
 ### Elsayed Nassar
  Machine Learning Engineer
+ 
  Graduation Project — Applied AI for Sustainable Agriculture
 ### Supervised by Professor Dr. Mohamed Ahmed Hussein
