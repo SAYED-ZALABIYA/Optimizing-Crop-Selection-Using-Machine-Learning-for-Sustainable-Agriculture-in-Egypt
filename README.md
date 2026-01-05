@@ -98,5 +98,13 @@ python src/main_pipeline.py
 ### 📄 Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt
 
  Published in an Egyptian scientific journal.
-
  The full paper is available in the paper/ directory.
+
+--- 
+
+## Author
+
+### Elsayed Nassar
+ Machine Learning Engineer
+ Graduation Project — Applied AI for Sustainable Agriculture
+### Supervised by Professor Dr. Mohamed Ahmed Hussein
