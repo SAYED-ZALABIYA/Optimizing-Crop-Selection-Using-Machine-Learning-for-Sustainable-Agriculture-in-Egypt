@@ -96,5 +96,7 @@ python src/main_pipeline.py
 ## Research Paper
 
 ### 📄 Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt
-Published in an Egyptian scientific journal.
-The full paper is available in the paper/ directory.
+
+ Published in an Egyptian scientific journal.
+
+ The full paper is available in the paper/ directory.
